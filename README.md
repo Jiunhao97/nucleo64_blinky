@@ -6,7 +6,7 @@ MKEL1123-05: Advanved Microprocessor System (Sem 20202021-2)
 
 Lecturer: Prof. Madya Muhammad Mun’im Ahmad Zabidi
 
-Group Members:\n
+Group Members:
 [1] Chng Tai Yau (MKE201094)
 [2] Koh Jiun Hao (MKE201088)
 [3] Poo Chee Ming (MKE202075)
