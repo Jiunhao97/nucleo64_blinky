@@ -12,7 +12,7 @@ Group Members:
 
 [2] Koh Jiun Hao (MKE201088)
 
-[3] Poo Chee Ming (MKE202075)
+[3] Poo Chee Ming (MKE201075)
 
 Video link to Blinky Demo: https://drive.google.com/file/d/1hQn2ErAwIhrfVOeCfiCEz9glwcvat9rx/view?usp=sharing
 
