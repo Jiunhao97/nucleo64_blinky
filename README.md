@@ -14,7 +14,7 @@ Group Members:
 
 [3] Poo Chee Ming (MKE201075)
 
-Milestone 1 Report: https://drive.google.com/file/d/1ZQl38hjRqEbAn1IByanlJe2S69oufRmq/view?usp=sharing
+*Milestone 1 Report can be found from this branch (blinky).*
 
 Video link to Blinky Demo: https://youtu.be/qxPCzEADEI0
 
