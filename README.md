@@ -22,7 +22,7 @@ Video link to Blinky Demo: https://drive.google.com/file/d/1hQn2ErAwIhrfVOeCfiCE
 
 [1] Application/MDK-ARM: Initialization Library
 
-[2] Application/User/Core: User/Applicarion Library
+[2] Application/User/Core: User/Application Library (Main source code resides here)
 
 [3] Drivers/STM32F4xx_HAL_Driver: HAL Driver Library
 
