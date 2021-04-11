@@ -16,7 +16,7 @@ Group Members:
 
 Milestone 1 Report: https://drive.google.com/file/d/1ZQl38hjRqEbAn1IByanlJe2S69oufRmq/view?usp=sharing
 
-Video link to Blinky Demo: https://drive.google.com/file/d/1hQn2ErAwIhrfVOeCfiCEz9glwcvat9rx/view?usp=sharing
+Video link to Blinky Demo: https://youtu.be/qxPCzEADEI0
 
 *This repository is divided into following branches:*
 
